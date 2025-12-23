@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanush Kumar
-- 👀 I’m interested in web development
-- 💞️ I’m looking to work in developer roles
+- 👀 I’m interested in Cloud Computing
+- 💞️ I’m looking to work in Cloud roles
 - 📫 Reach me at dhanush.kumar25103@gmail.com
 
 
